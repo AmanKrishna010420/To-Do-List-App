@@ -1,0 +1,1 @@
+ L:\\currency_conve8\\.dart_tool\\flutter_build\\a8dcf767fa25ee3bdb601142add7b548\\native_assets.yaml: 
